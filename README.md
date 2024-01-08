@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hey, my name is Aldis 👋
 
+## Im a Front-end developer with experience in HTML, CSS, and TypeScript, primarily working with React. I'm also familiar with Angular, Vue.js, and MySQL.
+
+## Tech enthusiast from a young age and programming was the natural next step. This journey so far has been amazing and I'm looking for new challenges every day.
+
+#### Feel free to check out my projects.
+---
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VUE Logo" width="50" height="50"/>
 <!--
 **aldisbutn/aldisbutn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
